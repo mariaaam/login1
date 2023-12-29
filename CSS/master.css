@@ -1,0 +1,36 @@
+
+*{
+    cursor: pointer;
+}
+
+body {
+    background: #A367B1;
+/* color: white; */
+}
+
+
+h1 {
+    color: #31304D; 
+    font-size: 2.5rem;
+    font-weight: bold;
+    font-family:  'Dancing Script', cursive;;
+}
+
+
+input {
+    background-color: transparent !important;
+    color: white !important;
+    box-shadow: none !important;
+}
+.h1{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+p{
+    font-size: 30px;
+    font-weight: bold;
+}
+.box-Sign{
+    box-shadow: -5px 2px 54px -9px #392467;
+}
